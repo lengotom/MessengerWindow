@@ -8,13 +8,8 @@ import javafx.scene.control.*;
 import javafx.scene.layout.*;
 import javafx.stage.Stage;
 
-
 public class MessengerWindow extends Application{
 	@Override
 	public void start(Stage stage){
 	}
-	
-
-	
-	
 }
