@@ -14,7 +14,7 @@ public class MessengerWindow extends Application{
 	public void start(Stage stage){
 		GridPane root = new GridPane();
 		Scene scene = new Scene(root, 300, 200);
-		
+		//testing testing notepad
 		TextField tf = new TextField("Graphics the Hard Way!");
 		Button btn = new Button("Print Message");
 		btn.setOnAction(new EventHandler<ActionEvent>(){
