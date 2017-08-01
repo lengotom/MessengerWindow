@@ -24,7 +24,11 @@ public class MessengerWindow extends Application{
 				System.out.println(tf.getText());
 			}
 		});
+<<<<<<< HEAD
 		// this is a change in eclipse
+=======
+		//this is a change is notepad++
+>>>>>>> 6f0c72452787564152c1ebb03312be2cb10281e4
 		root.setAlignment(Pos.CENTER);
 		root.setVgap(20);;
 		
