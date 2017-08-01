@@ -23,7 +23,7 @@ public class MessengerWindow extends Application{
 				System.out.println(tf.getText());
 			}
 		});
-// test input bla bla bla here
+
 		root.setAlignment(Pos.CENTER);
 		root.setVgap(20);;
 		
@@ -31,7 +31,7 @@ public class MessengerWindow extends Application{
 		root.add(btn,  0,  1);
 		
 		root.setHalignment(btn,  HPos.CENTER);
-// test input again here	
+
 		stage.setTitle("Messanger Window");
 		stage.setScene(scene);
 		stage.show();
