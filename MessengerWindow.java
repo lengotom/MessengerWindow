@@ -24,7 +24,7 @@ public class MessengerWindow extends Application{
 				System.out.println(tf.getText());
 			}
 		});
-		
+		// this is a change in eclipse
 		root.setAlignment(Pos.CENTER);
 		root.setVgap(20);;
 		
