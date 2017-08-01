@@ -18,7 +18,11 @@ public class MessengerWindow extends Application{
 		TextField tf = new TextField("Graphics the Hard Way!");
 		Button btn = new Button("Print Message");
 		//i have changed eclipse
+<<<<<<< HEAD
 		//change 2 left
+=======
+		//change 2 right
+>>>>>>> 19f631bcb667a53eaff89811b7a9a2214ca07701
 		btn.setOnAction(new EventHandler<ActionEvent>(){
 			@Override
 			public void handle(ActionEvent event){
