@@ -23,7 +23,7 @@ public class MessengerWindow extends Application{
 				System.out.println(tf.getText());
 			}
 		});
-//something
+
 		root.setAlignment(Pos.CENTER);
 		root.setVgap(20);;
 		
